@@ -17,10 +17,10 @@ I am a passionate developer currently expanding my skills in backend, web develo
 
 ### 🔭 What I'm up to
 
-- 🔭 **Currently working as:** A Junior Developer focusing on clean code and scalability.
+- 🔭 **Currently working as:** A Junior Developer.
 - 🌱 **Learning journey:** Deep diving into **Python** and **Java** ecosystems.
 - 👯 **Open for collaboration:** I'd love to contribute to **AI-driven projects** and **Modern Web Applications**.
-- 💬 **Ask me about:** Java, Python, or my journey into software development!
+- 💬 **Ask me about:** Java, Python, or anything in Swedish/English/Vietnamese!
 
 ---
 
